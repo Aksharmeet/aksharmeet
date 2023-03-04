@@ -1,16 +1,27 @@
-### Hi there 👋
+# Self-Taught MERN Full Stack Developer
+Welcome to my repository! I am a self-taught full-stack developer who is passionate about exploring new technologies and finding my niche in the tech world. My focus is on the MERN stack, and I have created this repository to showcase my skills and projects.
 
-<!--
-**Aksharmeet/aksharmeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies
+* Frontend
+* React
+* Redux
+* HTML5
+* CSS3
+* JavaScript
+* Material-UI
 
-Here are some ideas to get you started:
+### Backend
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* RESTful API
+* JSON Web Tokens (JWT)
+* Passport.js
+* Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contact
+If you want to reach out to me, feel free to connect with me on (LinkedIn)[https://www.linkedin.com/in/aksharmeet-singh-9869a6175/] or send me an email at aksharmeetsingh21@gmail.com.
+
+Thank you for visiting my repository!
