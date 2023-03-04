@@ -1,9 +1,10 @@
-# Self-Taught MERN Full Stack Developer
-Hello and welcome to my repository! As a self-taught developer, my current focus is on expanding my knowledge in **full-stack developmen**, **DevOps**, and **cloud technologies**. My goal is to become an proficient in these areas and contribute to open-source projects while collaborating with other developers to solve real-world problems.
+#  Full Stack Developer
+Hello and welcome to my repository!
+My current focus is on expanding my knowledge in **full-stack developmen**, **DevOps**, and **cloud technologies**. 
+My goal is to become an proficient in these areas and contribute to open-source projects while collaborating with other developers to solve real-world problems.
 
-`
 #
-<table cellpadding="0">`
+<table cellpadding="0">
   <tr>
     <td valign="center" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksharmeet&theme=tokyonight" alt="mystreak"/>
@@ -13,8 +14,6 @@ Hello and welcome to my repository! As a self-taught developer, my current focus
     </td>
      </tr>
   </table>
-
-
 
 <!-- followers and profile views
 <table cellpadding="0">
