@@ -1,27 +1,35 @@
 # Self-Taught MERN Full Stack Developer
-Welcome to my repository! I am a self-taught full-stack developer who is passionate about exploring new technologies and finding my niche in the tech world. My focus is on the MERN stack, and I have created this repository to showcase my skills and projects.
+Hello and welcome to my repository! As a self-taught developer, my current focus is on expanding my knowledge in **full-stack developmen**, **DevOps**, and **cloud technologies**. My goal is to become an proficient in these areas and contribute to open-source projects while collaborating with other developers to solve real-world problems.
 
-### Technologies
-* Frontend
-* React
-* Redux
-* HTML5
-* CSS3
-* JavaScript
-* Material-UI
-
-### Backend
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
-* RESTful API
-* JSON Web Tokens (JWT)
-* Passport.js
-* Projects
+`
+#
+<table cellpadding="0">`
+  <tr>
+    <td valign="center" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aksharmeet&theme=tokyonight" alt="mystreak"/>
+    </td>
+    <td valign="center" >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aksharmeet&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+    </td>
+     </tr>
+  </table>
 
 
-### Contact
-If you want to reach out to me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aksharmeet-singh-9869a6175/) or send me an email through [gmail](mailto:aksharmeetsingh21@gmail.com).
+
+<!-- followers and profile views
+<table cellpadding="0">
+  <tr>
+    <td valign="center" >
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Daksharmeet&longCache=true"/></td>
+     <td valign="center"><img src="https://komarev.com/ghpvc/?username=aksharmeet&color=brightgreen" alt="watching_count" /></td>
+  </tr> -->
+  </table>
+
+## Get In Touch
+
+<!-- Linkedin -->
+
+<a href="https://www.linkedin.com/in/aksharmeet-singh-9869a6175/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 Thank you for visiting my repository!
