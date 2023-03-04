@@ -22,6 +22,6 @@ Welcome to my repository! I am a self-taught full-stack developer who is passion
 
 
 ### Contact
-If you want to reach out to me, feel free to connect with me on (LinkedIn)[https://www.linkedin.com/in/aksharmeet-singh-9869a6175/] or send me an email at aksharmeetsingh21@gmail.com.
+If you want to reach out to me, feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/aksharmeet-singh-9869a6175/) or send me an email through [gmail](aksharmeetsingh21@gmail.com).
 
 Thank you for visiting my repository!
