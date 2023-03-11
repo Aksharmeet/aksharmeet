@@ -1,6 +1,6 @@
 #  Hi ! My name is Aksharmeet Singh
 & welcome to my repository!
-My current focus is on expanding my knowledge in **full-stack developmen**, **DevOps**, and **cloud technologies**. 
+My current focus is on expanding my knowledge in **full-stack development**, **DevOps**, and **cloud technologies**. 
 My goal is to become proficient in these areas and contribute to open-source projects while collaborating with other developers to solve real-world problems.
 
 #
