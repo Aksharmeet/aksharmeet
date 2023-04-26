@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-v2-ashy-kappa.vercel.app](https://portfolio-v2-ashy-kappa.vercel.app)
 
-- 📝 I regularly write articles on [https://aksharmeet.hashnode.dev/](https://aksharmeet.hashnode.dev/)
+- 📝 I regularly write articles on [hashnode](https://aksharmeet.hashnode.dev/)
 
 - 💬 Ask me about **React, Next, Node, Express, AWS.**
 
