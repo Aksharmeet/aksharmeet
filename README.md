@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [portfolio-v2-ashy-kappa.vercel.app](portfolio-v2-ashy-kappa.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-v2-ashy-kappa.vercel.app](https://portfolio-v2-ashy-kappa.vercel.app)
 
 - 📝 I regularly write articles on [https://aksharmeet.hashnode.dev/](https://aksharmeet.hashnode.dev/)
 
