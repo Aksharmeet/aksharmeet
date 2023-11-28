@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aksharmeet Singh</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 
 - 👨‍💻 All of my projects are available at [portfolio-v2-ashy-kappa.vercel.app](https://portfolio-v2-ashy-kappa.vercel.app)
 
-- 📝 I regularly write articles on [hashnode](https://aksharmeet.hashnode.dev/)
-
-- 💬 Ask me about **React, Next, Node, Express, AWS.**
+- 💬 Ask me about **React, Next, Node, Express.**
 
 - 📫 How to reach me **aksharmeetsingh21@gmail.com**
-
-- ⚡ Fun fact **I drank 4 cups of black coffee on Monday.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
