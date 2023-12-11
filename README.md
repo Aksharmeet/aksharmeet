@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aksharmeet Singh</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 
 - 👨‍💻 All of my projects are available at [portfolio-v2-ashy-kappa.vercel.app](https://portfolio-v2-ashy-kappa.vercel.app)
