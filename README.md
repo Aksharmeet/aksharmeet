@@ -2,8 +2,6 @@
 <h3 align="center">A Software Developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [portfolio-v2-ashy-kappa.vercel.app](https://portfolio-v2-ashy-kappa.vercel.app)
-
 - 💬 Ask me about **React, Next, Node, Express.**
 
 - 📫 How to reach me **aksharmeetsingh21@gmail.com**
