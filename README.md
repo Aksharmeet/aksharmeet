@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **React, Next, Node, Express.**
 
-- 📫 How to reach me **aksharmeetsingh21@gmail.com**
+- 📫 How to reach me **aksharmeets@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
